@@ -1,0 +1,26 @@
+﻿body {
+    text-align: center;
+    font-family: lato;
+    
+}
+
+.jumbotron {
+    background-color: white;
+}
+
+.jumbotron p {
+    font-size: 14px;
+
+}
+ul{
+    text-align:left;
+}
+
+h3{
+    text-align:left;
+}
+
+hr{
+    border-bottom: solid 1px black;
+}
+

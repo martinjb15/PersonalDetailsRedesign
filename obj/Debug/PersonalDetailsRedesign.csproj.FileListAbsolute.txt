@@ -1,0 +1,62 @@
+\\abbey-fp02\redirectedfolders$\martin\documents\visual studio 2015\Projects\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\roslyn\csc.exe
+\\abbey-fp02\redirectedfolders$\martin\documents\visual studio 2015\Projects\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\abbey-fp02\redirectedfolders$\martin\documents\visual studio 2015\Projects\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\abbey-fp02\redirectedfolders$\martin\documents\visual studio 2015\Projects\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\abbey-fp02\redirectedfolders$\martin\documents\visual studio 2015\Projects\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\abbey-fp02\redirectedfolders$\martin\documents\visual studio 2015\Projects\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\roslyn\Microsoft.CSharp.Core.targets
+\\abbey-fp02\redirectedfolders$\martin\documents\visual studio 2015\Projects\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\abbey-fp02\redirectedfolders$\martin\documents\visual studio 2015\Projects\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\roslyn\System.Collections.Immutable.dll
+\\abbey-fp02\redirectedfolders$\martin\documents\visual studio 2015\Projects\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\roslyn\System.Reflection.Metadata.dll
+\\abbey-fp02\redirectedfolders$\martin\documents\visual studio 2015\Projects\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\roslyn\vbc.exe
+\\abbey-fp02\redirectedfolders$\martin\documents\visual studio 2015\Projects\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\roslyn\VBCSCompiler.exe
+\\abbey-fp02\redirectedfolders$\martin\documents\visual studio 2015\Projects\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\roslyn\VBCSCompiler.exe.config
+\\abbey-fp02\redirectedfolders$\martin\documents\visual studio 2015\Projects\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\PersonalDetailsRedesign.dll.config
+\\abbey-fp02\redirectedfolders$\martin\documents\visual studio 2015\Projects\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\PersonalDetailsRedesign.dll
+\\abbey-fp02\redirectedfolders$\martin\documents\visual studio 2015\Projects\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\PersonalDetailsRedesign.pdb
+\\abbey-fp02\redirectedfolders$\martin\documents\visual studio 2015\Projects\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\abbey-fp02\redirectedfolders$\martin\documents\visual studio 2015\Projects\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\abbey-fp02\redirectedfolders$\martin\documents\visual studio 2015\Projects\PersonalDetailsRedesign\PersonalDetailsRedesign\obj\Debug\PersonalDetailsRedesign.dll
+\\abbey-fp02\redirectedfolders$\martin\documents\visual studio 2015\Projects\PersonalDetailsRedesign\PersonalDetailsRedesign\obj\Debug\PersonalDetailsRedesign.pdb
+C:\Users\administrator.ABBEYTOURS\source\repos\martin\PersonalDetailsRedesign\PersonalDetailsRedesign\obj\Debug\PersonalDetailsRedesign.csproj.CoreCompileInputs.cache
+C:\Users\administrator.ABBEYTOURS\source\repos\martin\PersonalDetailsRedesign\PersonalDetailsRedesign\obj\Debug\PersonalDetailsRedesign.dll
+C:\Users\administrator.ABBEYTOURS\source\repos\martin\PersonalDetailsRedesign\PersonalDetailsRedesign\obj\Debug\PersonalDetailsRedesign.pdb
+C:\Users\administrator.ABBEYTOURS\source\repos\martin\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\roslyn\csc.exe
+C:\Users\administrator.ABBEYTOURS\source\repos\martin\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\administrator.ABBEYTOURS\source\repos\martin\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\administrator.ABBEYTOURS\source\repos\martin\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\administrator.ABBEYTOURS\source\repos\martin\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\administrator.ABBEYTOURS\source\repos\martin\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\administrator.ABBEYTOURS\source\repos\martin\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\administrator.ABBEYTOURS\source\repos\martin\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\administrator.ABBEYTOURS\source\repos\martin\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\administrator.ABBEYTOURS\source\repos\martin\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\roslyn\vbc.exe
+C:\Users\administrator.ABBEYTOURS\source\repos\martin\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\roslyn\VBCSCompiler.exe
+C:\Users\administrator.ABBEYTOURS\source\repos\martin\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\administrator.ABBEYTOURS\source\repos\martin\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\PersonalDetailsRedesign.dll.config
+C:\Users\administrator.ABBEYTOURS\source\repos\martin\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\PersonalDetailsRedesign.dll
+C:\Users\administrator.ABBEYTOURS\source\repos\martin\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\PersonalDetailsRedesign.pdb
+C:\Users\administrator.ABBEYTOURS\source\repos\martin\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\administrator.ABBEYTOURS\source\repos\martin\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\roslyn\csc.exe
+Y:\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\roslyn\System.Collections.Immutable.dll
+Y:\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\roslyn\System.Reflection.Metadata.dll
+Y:\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\roslyn\vbc.exe
+Y:\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\roslyn\VBCSCompiler.exe
+Y:\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\roslyn\VBCSCompiler.exe.config
+Y:\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\PersonalDetailsRedesign.dll.config
+Y:\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\PersonalDetailsRedesign.dll
+Y:\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\PersonalDetailsRedesign.pdb
+Y:\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\PersonalDetailsRedesign\PersonalDetailsRedesign\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\PersonalDetailsRedesign\PersonalDetailsRedesign\obj\Debug\PersonalDetailsRedesign.csprojAssemblyReference.cache
+Y:\PersonalDetailsRedesign\PersonalDetailsRedesign\obj\Debug\PersonalDetailsRedesign.csproj.CopyComplete
+Y:\PersonalDetailsRedesign\PersonalDetailsRedesign\obj\Debug\PersonalDetailsRedesign.dll
+Y:\PersonalDetailsRedesign\PersonalDetailsRedesign\obj\Debug\PersonalDetailsRedesign.pdb
+C:\Users\administrator.ABBEYTOURS\source\repos\martin\PersonalDetailsRedesign\PersonalDetailsRedesign\obj\Debug\PersonalDetailsRedesign.csprojAssemblyReference.cache
+C:\Users\administrator.ABBEYTOURS\source\repos\martin\PersonalDetailsRedesign\PersonalDetailsRedesign\obj\Debug\PersonalDetailsRedesign.csproj.CopyComplete
